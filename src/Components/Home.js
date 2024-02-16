@@ -6,7 +6,7 @@ import Intro from './Intro';
 
 export default function Home() {
     return (
-        <div name="home" className='md:h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 text-white '>
+        <div name="home" className=' w-full min-h-screen flex items-center bg-gradient-to-b from-black via-black to-gray-800 text-white '>
             <div className='max-w-screen-lg mx-auto flex flex-col gap-8 items-center justify-center h-full px-4  md:flex-row-reverse md:gap-4 '>
                 <div className='mt-28 md:mt-0'>
                     <img src={Myimage} alt="my img" className='rounded-2xl mx-auto w-3/4 md:w-full' />
