@@ -14,7 +14,7 @@ export default function About() {
                 </p>
                 <br />
                 <p className='text-xl'>
-                    Currently I am working as a Senior Software Engineer in Newgen Software since October 2021. There I created a module for document generation system that uses in depth knowledge of technologies like HTML, CSS, JavaScript, SQL, JAVA and Jsp. This module is generic and is used by numerous implementation teams to cater the requirements of different clients. Now I overlook this module and add several enhancements from time to time that come as new requirements from implementation team.
+                    Currently I am working as a Senior Software Engineer in Newgen Software since October 2021. There I worked on a module for document generation system that uses in depth knowledge of technologies like HTML, CSS, JavaScript, SQL, JAVA and Jsp. This module is generic and is used by numerous implementation teams to cater the requirements of different clients. Now I overlook this module and add several enhancements from time to time that come as new requirements from implementation team and also work on bug fixes, improving security, increasing scalability and making the module overall easy to use by others.
                 </p>
             </div>
         </div>
